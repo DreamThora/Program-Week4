@@ -21,5 +21,8 @@
     <ClCompile Include="4-2 ข้อ 16.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="4-3 gcd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
